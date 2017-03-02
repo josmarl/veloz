@@ -1,0 +1,10 @@
+/smsweb/nbproject/private/
+/nbproject/private/
+target
+bower_components
+.idea
+nbproject
+node_modules
+application.properties
+.gradle
+.mvn
